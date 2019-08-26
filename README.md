@@ -37,7 +37,7 @@ spring.datasource.password = root123
 `` ``
 `` ``
 ### define o tipo de conteúdo como no cabeçalho como `application / json`
-### definir o corpo da solicitação como bruto com carga útil JSON
+### definir o corpo
 `` ``
   {
     "nome": "Joao",
@@ -57,7 +57,7 @@ http: // localhost: 8080 /compania/funcionarios/<id>
 `` ``
 `` ``
 ### define o tipo de conteúdo como no cabeçalho como `application / json`
-### definir o corpo da solicitação como bruto com carga útil JSON
+### definir o corpo 
 
 `` ``
   {
